@@ -1,1 +1,2 @@
-# dinosaurs
+## Dino Project
+### First submission
